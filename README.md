@@ -21,8 +21,12 @@ npm i next react react-dom
 
 - `pages` 디렉토리 추가
 
-`_app.js`: React의 최상위 App 컴포넌트와 비슷, `Component, pageProps` 받아서 하윜 컴포넌트 렌더링 간으
+---
+
+`_app.js`: React의 최상위 App 컴포넌트와 비슷, `Component, pageProps` 받아서 하윜 컴포넌트 렌더링 가능
+
 `_document.js`: HTML 메타 데이터 설정 가능, `styled-components` 서버사이드 렌더링 설정 적용
+
 
 `pages` 폴더 내부 파일명이 라우팅 경로
 
