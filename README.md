@@ -23,7 +23,7 @@ npm i next react react-dom
 
 ---
 
-`_app.js`: React의 최상위 App 컴포넌트와 비슷, `Component, pageProps` 받아서 하 컴포넌트 렌더링 가능
+`_app.js`: React의 최상위 App 컴포넌트와 비슷, `Component, pageProps` 받아서 하위 컴포넌트 렌더링 가능
 
 `_document.js`: HTML 메타 데이터 설정 가능, `styled-components` 서버사이드 렌더링 설정 적용
 
